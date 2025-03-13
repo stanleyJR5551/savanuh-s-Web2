@@ -33,9 +33,8 @@ NEW
 
     <h3>My Interests</h3>
     <ul>
-      <img scr="img/cookies.jpg alt="">
-      ![IMG sav](https://github.com/user-attachments/assets/a36333b8-698d-4a8c-8711-8b073dbdeaff)
-
+      <img src="Flowers.png" height= 3000 width="600"
+     
     </ul>
 
     <h3>My Favorite Photos</h3>
