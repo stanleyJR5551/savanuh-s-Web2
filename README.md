@@ -33,7 +33,7 @@ NEW
 
     <h3>My Interests</h3>
     <ul>
-      ![IMG_ SAV](https://github.com/user-attachments/assets/86800a0f-16ee-4610-ab6c-aadd041c0f23)
+      <img scr="img/cookies.jpg alt="">
       ![IMG sav](https://github.com/user-attachments/assets/a36333b8-698d-4a8c-8711-8b073dbdeaff)
 
     </ul>
