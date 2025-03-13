@@ -33,10 +33,9 @@ NEW
 
     <h3>My Interests</h3>
     <ul>
-        <li> <a href="https://" target="_blank">Exploring Different Cuisines</a></li>
-        <li> <a href="https://www.nationalgeographic.com/environment" target="_blank">Appreciating Nature</a></li>
-        <li> <a href="https://www.instagram.com/" target="_blank">Photography</a></li>
-        <li> <a href="https://www.lonelyplanet.com/" target="_blank">Traveling & Exploring</a></li>
+      <img scr=" ![IMG_ SAV](https://github.com/user-attachments/assets/86800a0f-16ee-4610-ab6c-aadd041c0f23)
+      <img cr=" ![IMG sav](https://github.com/user-attachments/assets/a36333b8-698d-4a8c-8711-8b073dbdeaff)
+
     </ul>
 
     <h3>My Favorite Photos</h3>
